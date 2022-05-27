@@ -24,22 +24,22 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="vishnu097.github.io/lab_web1/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="vishnu097.github.io/lab_web1/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="vishnu097.github.io/lab_web1/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/lab.jpg" alt="Slide 4" />
+            <img src="vishnu097.github.io/lab_web1/images/slider7001400/lab.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+            <img src="vishnu097.github.io/lab_web1/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="/images/slider7001400/cake_web.jpg" alt="Slide 6" />
+            <img src="vishnu097.github.io/lab_web1/images/slider7001400/cake_web.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -66,7 +66,7 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 
 <figure class="fourth">
   <img src="vishnu097.github.io/lab_web1/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="vishnu097.github.io/lab_web1/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
+  <img src="vishnu097.github.io/lab_web1/images/logopic/Logo_NWO.jpg" style="width: 120px">
+  <img src="vishnu097.github.io/lab_web1/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
